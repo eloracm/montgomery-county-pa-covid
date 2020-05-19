@@ -1,4 +1,4 @@
-# chester-county-covid-data
+# montgomery-county-pa-covid
 
 Compilation of total confirmed cases and total number of deaths by municipality in Montgomery County, PA.
 
